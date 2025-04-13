@@ -4,16 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ce4a5a3-db0b-4592-94e8-2f42a8259234" name="更改" comment="[test]:测试git是否能推送">
-      <change afterPath="$PROJECT_DIR$/.idea/GPT-2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fine_tuning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Fineweb.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GPT_2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/daily_dialog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/front_page.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hellaswag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test_gpt2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/train_gpt2.py" afterDir="false" />
+    <list default="true" id="4ce4a5a3-db0b-4592-94e8-2f42a8259234" name="更改" comment="[chore]:模型权重">
       <change afterPath="$PROJECT_DIR$/weight/model_weights.pth" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,11 +71,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744551361233</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="[feat]:GPT2 from Scratch">
+      <option name="closed" value="true" />
+      <created>1744551454131</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1744551454131</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="[test]:测试git是否能推送" />
-    <option name="LAST_COMMIT_MESSAGE" value="[test]:测试git是否能推送" />
+    <MESSAGE value="[feat]:GPT2 from Scratch" />
+    <MESSAGE value="[chore]:模型权重" />
+    <option name="LAST_COMMIT_MESSAGE" value="[chore]:模型权重" />
   </component>
 </project>
